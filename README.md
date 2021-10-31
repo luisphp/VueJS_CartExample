@@ -1,4 +1,4 @@
-# vuex-1
+<h1> VueJS VueX VueRouter Shopping Cart</h1>
 
 ## Project setup
 ```
@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4HXMoUFGRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
