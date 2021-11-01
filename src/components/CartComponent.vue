@@ -3,7 +3,7 @@
       <h4>Cart</h4>
   
         <!-- Productos -->
-        <div class="col-md-12 mt-2">
+        <div class="col-md-12 mt-2 col-sm-12">
             <div class="mt-3">
                 <div v-for="product in cart" key="product.id" class="m-3 animate__animated animate__fadeIn">
                     <div 

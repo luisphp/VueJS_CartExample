@@ -5,7 +5,7 @@
             Categories...
         </div>
         <!-- Productos -->
-        <div class="col-md-7">
+        <div class="col-md-7 col-sm-8">
             <div class="mt-3">
                 <div v-for="product in allProducts" key="product.id" class="m-3 animate__animated animate__fadeIn">
                     <div 
@@ -43,7 +43,7 @@
             </div>        
         </div>
         <!-- Carrito -->
-        <div class="col-md-3">
+        <div class="col-md-3 col-sm-4">
             <cart-component></cart-component>
         </div>
     </div>
